@@ -18,19 +18,15 @@ Site apenas para apresentação de trabalho.
             <li>
                 <a href="contact.html">Contatos</a>
             </li>
-
         </ul>
-
     </nav>
-
     <header>
         <div class="center">
             <img src="./img/William.png"></img>
         </div>
         <h1> William Duque</h1>
         <h2>Desenvolvedor de software</h2>
-        
-    </header>
+            </header>
     <main>
         <section>
             <h3>Sobre mim</h3>
