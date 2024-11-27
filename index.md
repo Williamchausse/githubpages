@@ -22,7 +22,7 @@ Site apenas para apresentação de trabalho.
     </nav>
     <header>
         <div class="center">
-            <img src="./img/William.png"></img>
+            <img src="William.png"></img>
         </div>
         <h1> William Duque</h1>
         <h2>Desenvolvedor de software</h2>
