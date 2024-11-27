@@ -45,7 +45,7 @@ Site apenas para apresentação de trabalho.
     </main>
     <footer>
         <a href="https://www.linkedin.com/in/william-chausse-5b5424a3" target="_blank" rel="noopener noreferrer">
-            <img src="./img/linkedin-svgrepo-com.svg"></img>
+            <img src="linkedin-svgrepo-com.svg"></img>
             <p> Linkedin</p>
         </a>
     </footer>
